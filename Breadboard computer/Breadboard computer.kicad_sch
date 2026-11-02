@@ -1423,7 +1423,7 @@
 		(at 231.14 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "75681c7d-18f8-492a-bdaf-6d35f9d0183d")
+		(uuid "8e000165-f0e8-4496-9e26-5803c8b6dfd2")
 	)
 	(no_connect
 		(at 222.25 76.2)
@@ -2607,7 +2607,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 76.2) (xy 231.14 76.2)
+			(xy 228.6 76.2) (xy 231.14 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3829,6 +3829,30 @@
 			)
 		)
 	)
+	(global_label "ALUOE"
+		(shape input)
+		(at 228.6 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7f05fa73-7a0e-4cb9-93d6-5ad70b98227f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 228.6 85.1119 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "CP"
 		(shape input)
 		(at 119.38 137.16 180)
@@ -3925,6 +3949,30 @@
 			)
 		)
 	)
+	(global_label "ALUOE"
+		(shape input)
+		(at 217.17 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cf3870d9-ee1d-459a-a789-8fde9319986e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.2581 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "AE"
 		(shape input)
 		(at 64.77 132.08 180)
@@ -3994,83 +4042,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 217.17 41.91 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00d93d3e-143e-48b3-bd94-3196bce4fbc1")
-		(property "Reference" "#PWR022"
-			(at 217.17 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 214.122 40.386 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 217.17 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 217.17 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 217.17 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "05849190-859e-4c63-ae2b-b7e010f2f995")
-		)
-		(instances
-			(project "Breadboard computer"
-				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a"
-					(reference "#PWR022")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5488,83 +5459,6 @@
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a"
 					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 229.87 76.2 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "69d9283c-1af6-4ccb-833b-71ed520fe9fa")
-		(property "Reference" "#PWR023"
-			(at 229.87 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 226.822 74.422 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 229.87 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8e095587-4b04-429b-99ac-dd26e5e7be0a")
-		)
-		(instances
-			(project "Breadboard computer"
-				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a"
-					(reference "#PWR023")
 					(unit 1)
 				)
 			)
