@@ -416,13 +416,37 @@
         "uuid": "bb65c17a-045d-44e7-8856-5e8f5f476e0a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U30",
     "variants": []
   },
   "sheets": [
     [
       "bb65c17a-045d-44e7-8856-5e8f5f476e0a",
       "Root"
+    ],
+    [
+      "825b8269-64bd-4163-b2d6-f2383e53641f",
+      "ALU, and registers"
+    ],
+    [
+      "31aff776-5d69-4753-8385-f0a3645faacb",
+      "Clock"
+    ],
+    [
+      "f306ca25-5933-4427-aac8-d2b6d7f254de",
+      "Program counter"
+    ],
+    [
+      "e92fbb4f-e2a2-452d-8372-a638266d0657",
+      "PROM"
+    ],
+    [
+      "4adc7018-4d91-48f6-9a97-06b7aa3f42d5",
+      "DRAM"
+    ],
+    [
+      "b6010071-16fe-4fb4-a9be-1dc431535097",
+      "Instruction register"
     ]
   ],
   "text_variables": {},
