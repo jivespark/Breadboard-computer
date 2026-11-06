@@ -17,6 +17,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 95.25) (xy 213.36 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "140af5dc-968d-4225-861a-aa16249ed731")
+	)
+	(wire
+		(pts
 			(xy 158.75 68.58) (xy 158.75 62.23)
 		)
 		(stroke
@@ -522,6 +532,62 @@
 		)
 	)
 	(sheet
+		(at 168.91 100.33)
+		(size 50.8 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "40a3dc2e-bb4e-445d-bdad-0058317ae3e6")
+		(property "Sheetname" "Output register"
+			(at 168.91 99.6184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OUT.kicad_sch"
+			(at 168.91 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OE" input
+			(at 213.36 100.33 90)
+			(uuid "da271de1-aac7-428e-b055-24c84dfe0624")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Breadboard computer"
+				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 222.25 16.51)
 		(size 45.72 45.72)
 		(exclude_from_sim no)
@@ -802,7 +868,7 @@
 			)
 		)
 		(pin "OE" output
-			(at 168.91 93.98 180)
+			(at 213.36 95.25 270)
 			(uuid "87195af5-0e73-4c3f-a15a-b6c462e6b966")
 			(effects
 				(font
@@ -811,7 +877,7 @@
 				(justify left)
 			)
 		)
-		(pin "PA0" input
+		(pin "PA0" output
 			(at 168.91 76.2 180)
 			(uuid "99adcb5f-927e-469b-9a72-74f0d04e3df7")
 			(effects
@@ -821,7 +887,7 @@
 				(justify left)
 			)
 		)
-		(pin "PA1" input
+		(pin "PA1" output
 			(at 168.91 73.66 180)
 			(uuid "0e2a2055-56b5-4b5a-a290-71be8a20c734")
 			(effects
@@ -831,7 +897,7 @@
 				(justify left)
 			)
 		)
-		(pin "PA2" input
+		(pin "PA2" output
 			(at 168.91 71.12 180)
 			(uuid "8192e575-06dc-40e7-9bad-fc1a883ce645")
 			(effects
@@ -841,7 +907,7 @@
 				(justify left)
 			)
 		)
-		(pin "PA3" input
+		(pin "PA3" output
 			(at 168.91 68.58 180)
 			(uuid "c979fa2c-09ec-47f7-97cf-e4954916f43b")
 			(effects
@@ -861,7 +927,7 @@
 				(justify left)
 			)
 		)
-		(pin "RA0" input
+		(pin "RA0" output
 			(at 219.71 77.47 0)
 			(uuid "4502da3d-1105-4ff4-a8a0-b33a77b0bceb")
 			(effects
@@ -871,7 +937,7 @@
 				(justify right)
 			)
 		)
-		(pin "RA1" input
+		(pin "RA1" output
 			(at 219.71 80.01 0)
 			(uuid "35dab5cb-c085-4745-9a3d-3b5ea3fdec51")
 			(effects
@@ -881,7 +947,7 @@
 				(justify right)
 			)
 		)
-		(pin "RA2" input
+		(pin "RA2" output
 			(at 219.71 82.55 0)
 			(uuid "f741816b-7ded-4528-b9cc-3abafbd67b24")
 			(effects
@@ -891,7 +957,7 @@
 				(justify right)
 			)
 		)
-		(pin "RA3" input
+		(pin "RA3" output
 			(at 219.71 85.09 0)
 			(uuid "6275d4a5-170f-43d1-aac0-1987d1d6a095")
 			(effects

@@ -3766,16 +3766,16 @@
 		(uuid "4c9d8f53-fe19-44a0-9eb2-dae25fdc281e")
 	)
 	(junction
+		(at 34.29 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "589a7af5-026b-42b0-8ad3-668a622ea8c7")
+	)
+	(junction
 		(at 87.63 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60b3a6f5-bac9-4b2f-b748-b15803c9c400")
-	)
-	(junction
-		(at 34.29 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7ddb26fb-1f4b-4726-a5a5-885197274dd1")
 	)
 	(junction
 		(at 26.67 34.29)
@@ -3882,16 +3882,6 @@
 			(type default)
 		)
 		(uuid "3c9ce8bc-d48e-4114-9e0a-c18575edc9c8")
-	)
-	(wire
-		(pts
-			(xy 34.29 41.91) (xy 33.02 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fa41f90-fde5-47da-82d0-8dcfcc83edf5")
 	)
 	(wire
 		(pts
@@ -4075,7 +4065,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 41.91) (xy 33.02 44.45)
+			(xy 34.29 41.91) (xy 34.29 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4205,7 +4195,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 44.45) (xy 26.67 44.45)
+			(xy 34.29 44.45) (xy 26.67 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5213,7 +5203,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS08"
+		(property "Value" "74HC08"
 			(at 87.6217 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6002,7 +5992,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS08"
+		(property "Value" "74HC08"
 			(at 87.6217 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6472,7 +6462,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS32"
+		(property "Value" "74HC32"
 			(at 106.68 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7651,7 +7641,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS08"
+		(property "Value" "74HC08"
 			(at 124.4517 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)

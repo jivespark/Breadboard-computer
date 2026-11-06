@@ -416,7 +416,7 @@
         "uuid": "bb65c17a-045d-44e7-8856-5e8f5f476e0a"
       }
     ],
-    "used_designators": "U30",
+    "used_designators": "SW8,SW10-11,R7,R52,U8,U16-20,U22,U24,#PWR27,#PWR47-55,#PWR57-59,#PWR64-69,#PWR71-74,#PWR78-79,#PWR81-82,#PWR114-115,#PWR125",
     "variants": []
   },
   "sheets": [
@@ -447,6 +447,10 @@
     [
       "b6010071-16fe-4fb4-a9be-1dc431535097",
       "Instruction register"
+    ],
+    [
+      "40a3dc2e-bb4e-445d-bdad-0058317ae3e6",
+      "Output register"
     ]
   ],
   "text_variables": {},
