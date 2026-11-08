@@ -302,7 +302,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -416,7 +416,7 @@
         "uuid": "bb65c17a-045d-44e7-8856-5e8f5f476e0a"
       }
     ],
-    "used_designators": "SW8,SW10-11,R7,R52,U8,U16-20,U22,U24,#PWR27,#PWR47-55,#PWR57-59,#PWR64-69,#PWR71-74,#PWR78-79,#PWR81-82,#PWR114-115,#PWR125",
+    "used_designators": "SW12,R30,#PWR122-123,U33",
     "variants": []
   },
   "sheets": [

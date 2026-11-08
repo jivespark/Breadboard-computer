@@ -924,7 +924,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0398dccd-c8d8-4add-bed6-d181fe5519d1")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR045"
 			(at 60.96 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -984,7 +984,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/f306ca25-5933-4427-aac8-d2b6d7f254de"
-					(reference "#PWR046")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -1002,7 +1002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "095b4a9d-5cb6-4111-824a-361585553b80")
-		(property "Reference" "U15"
+		(property "Reference" "U14"
 			(at 63.1033 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1108,7 +1108,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/f306ca25-5933-4427-aac8-d2b6d7f254de"
-					(reference "U15")
+					(reference "U14")
 					(unit 1)
 				)
 			)
@@ -1126,7 +1126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "505324bc-33d5-492d-95cd-ad41e508fa4c")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR046"
 			(at 33.02 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -1186,7 +1186,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/f306ca25-5933-4427-aac8-d2b6d7f254de"
-					(reference "#PWR097")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -1204,7 +1204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d96845e-d60e-4e66-8fa8-122d09c51205")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR047"
 			(at 36.83 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -1264,7 +1264,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/f306ca25-5933-4427-aac8-d2b6d7f254de"
-					(reference "#PWR098")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -1282,7 +1282,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa0a2174-08d4-4c60-964d-2fd9412cf3a9")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR048"
 			(at 60.96 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -1342,7 +1342,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/f306ca25-5933-4427-aac8-d2b6d7f254de"
-					(reference "#PWR045")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)

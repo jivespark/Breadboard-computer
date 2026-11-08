@@ -4196,7 +4196,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02b1d178-e60b-417a-9c61-70b5bbc83bff")
-		(property "Reference" "U4"
+		(property "Reference" "U3"
 			(at 78.3433 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4302,7 +4302,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "U4")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -4319,7 +4319,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "03853f0d-5528-42ae-84ad-55bb244edf27")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR02"
 			(at 167.64 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -4379,7 +4379,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR01")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -4397,7 +4397,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0578066e-0b71-4ee3-88fa-7ec3256ff529")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR016"
 			(at 208.28 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -4457,7 +4457,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR03")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -4474,7 +4474,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07a79786-c40a-4748-82ad-546c8663a31d")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR07"
 			(at 182.88 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -4534,7 +4534,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR02")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -4551,7 +4551,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0a5270b1-25a6-4527-b1da-435a2370ae80")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR015"
 			(at 125.73 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4611,7 +4611,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR013")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -4628,7 +4628,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1062cb56-76fb-4b91-8f6b-9ed7ac993eb0")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR09"
 			(at 114.3 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4688,7 +4688,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR020")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -4706,7 +4706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10fff843-0bc2-46a9-a866-e8f4b2356d83")
-		(property "Reference" "U7"
+		(property "Reference" "U2"
 			(at 245.9833 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4824,7 +4824,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "U7")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -4841,7 +4841,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1c8a435c-ec76-4118-a950-48dc9d748d94")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR020"
 			(at 115.57 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -4901,7 +4901,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR019")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -4919,7 +4919,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c9e8bb9-f284-4b4c-885e-a9afb10560b4")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR01"
 			(at 182.88 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -4979,7 +4979,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR05")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -4996,7 +4996,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "291fc45d-0c3f-4675-b5d2-6ebb71d1d9ff")
-		(property "Reference" "U6"
+		(property "Reference" "U7"
 			(at 138.938 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5102,7 +5102,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "U6")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -5120,7 +5120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2fc48cee-682d-43e1-a996-8ec1db2dfdd0")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR04"
 			(at 76.2 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5180,7 +5180,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR014")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -5198,7 +5198,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "305f55a4-ba5a-4661-b6de-59a69c790a9f")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR018"
 			(at 137.16 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -5258,7 +5258,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR016")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -5275,7 +5275,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41d8c638-f73d-43ee-908c-8b7b38be97f0")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR06"
 			(at 208.28 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -5335,7 +5335,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR04")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -5353,7 +5353,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cc7fb05-56a9-4ed8-99d2-22a709b9f1fd")
-		(property "Reference" "U5"
+		(property "Reference" "U4"
 			(at 132.9533 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5459,7 +5459,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "U5")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -5477,7 +5477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76d4ef08-2701-481b-9cad-78ba5df262d2")
-		(property "Reference" "U2"
+		(property "Reference" "U5"
 			(at 210.4233 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5583,7 +5583,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "U2")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -5601,7 +5601,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77ebd67a-8ae9-45e6-93c3-bb8668e0f57a")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR03"
 			(at 243.84 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5661,7 +5661,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR026")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -5678,7 +5678,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "834590a9-d587-48aa-a47c-5c337af11486")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR022"
 			(at 116.84 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -5738,7 +5738,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR0121")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -5879,7 +5879,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d714152-3e24-429b-ab02-5d6d30b88038")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR010"
 			(at 228.6 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -5939,7 +5939,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR024")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -5956,7 +5956,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8ef58250-6d5b-4a16-87cb-714f5168fabd")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 84.328 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6062,7 +6062,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "U3")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -6079,7 +6079,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "98ef646a-55e7-41be-b9b0-95804ec52b57")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR024"
 			(at 130.81 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -6139,7 +6139,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR012")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -6156,7 +6156,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0445ed1-0925-4046-acda-b5f8874dc2bb")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR023"
 			(at 76.2 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -6216,7 +6216,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR011")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -6233,7 +6233,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a85afd9a-7325-4879-98ed-08e82b608239")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR011"
 			(at 62.23 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6293,7 +6293,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR0118")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -6310,7 +6310,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b202efbb-3ad6-4adf-b66f-5e6a36ad7c11")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR08"
 			(at 60.96 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6370,7 +6370,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR06")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -6387,7 +6387,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c2a8713b-2e23-4cfd-bb39-0df1f7a01acb")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR019"
 			(at 60.96 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -6447,7 +6447,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR08")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -6465,7 +6465,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3bb82a7-23a9-4258-9d42-2aa9df090c9c")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR013"
 			(at 243.84 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6525,7 +6525,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR025")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -6542,7 +6542,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d44e356a-783a-4e24-8a47-d0b69f094e94")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR021"
 			(at 62.23 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -6602,7 +6602,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR0119")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -6697,7 +6697,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0bb31f1-156c-4a5b-8df3-db5ea0d9c5c5")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR014"
 			(at 69.85 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -6757,7 +6757,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR010")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -6774,7 +6774,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f21ff36b-51ca-41cb-919b-40bc8ff07771")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR012"
 			(at 116.84 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6834,7 +6834,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR0120")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -6851,7 +6851,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc9c4894-3f0a-4a37-b515-b82f1df394f2")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR05"
 			(at 130.81 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6911,7 +6911,7 @@
 		(instances
 			(project "Breadboard computer"
 				(path "/bb65c17a-045d-44e7-8856-5e8f5f476e0a/825b8269-64bd-4163-b2d6-f2383e53641f"
-					(reference "#PWR015")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
